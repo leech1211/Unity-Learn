@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 908, y: 442}
   m_MaxSize: {x: 22003, y: 10021}
   vertical: 0
-  controlID: 58
+  controlID: 153
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,25 +302,25 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f8360000
-      m_LastClickedID: 14072
-      m_ExpandedIDs: 66fbffff28370000
+      m_SelectedIDs: 90f3ffff
+      m_LastClickedID: -3184
+      m_ExpandedIDs: 9cf3ffff66fbffffa0390000ca390000e6390000fc390000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Propeller
+        m_OriginalName: Propeller
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -3184
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 7}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -365,7 +365,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 487
+  m_LastVerticalScrollValue: 125
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -404,7 +404,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Challenge 1/Scripts
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders:
@@ -445,21 +446,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000483800004a380000
+    m_ExpandedIDs: ffffffff00000000483800004a38000094380000963800009e380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: PlayerPropellerX
+      m_OriginalName: PlayerPropellerX
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 18680
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -562,7 +563,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -629,9 +630,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.596243, y: -1.6973467, z: 27.315744}
+    m_Target: {x: -1.37393, y: -0.60191846, z: 2.2336445}
     speed: 2
-    m_Value: {x: -4.596243, y: -1.6973467, z: 27.315744}
+    m_Value: {x: -1.37393, y: -0.60191846, z: 2.2336445}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -677,13 +678,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17760307, y: 0.66864717, z: -0.16917436, w: -0.7019607}
+    m_Target: {x: -0.060026035, y: 0.8776589, z: -0.11412647, w: -0.46161374}
     speed: 2
-    m_Value: {x: -0.177603, y: 0.66864693, z: -0.1691743, w: -0.70196044}
+    m_Value: {x: -0.060026027, y: 0.8776588, z: -0.11412646, w: -0.46161368}
   m_Size:
-    m_Target: 17.74432
+    m_Target: 5.878266
     speed: 2
-    m_Value: 17.74432
+    m_Value: 5.878266
   m_Ortho:
     m_Target: 0
     speed: 2
